@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JANE-AJAS
+- 👋 Hi, I’m @Wangui-Web
 - 👀 I’m interested in helping the community to grow...
 - 🌱 I’m currently learning in kiriri womens' university ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-JANE-AJAS/JANE-AJAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WANGUI-WEB/WANGUI-WEB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
